@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# BookBazaar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [Click Here to Visit the website](https://bookbazaar-cc648.web.app/)
 
-## Available Scripts
+### BookBazaar is an online React web application where the users can sell and purchase books.
+* Provided is a searchbar to filter books according to their names. User must perform `Sign Up` followed by `Sign In` to enable all functionalities.
+* After that user can even `Add Books` to sell them and set their price.
+* User can add books to `Cart` then move to `Checkout` page and finally complete the transaction.
+* Every User can see thier `Purchase History` as well and users entitled to `Admin Access` can see every transaction till date of every account on the webpage itself.
 
-In the project directory, you can run:
+## Here are some screenshots of the Project
 
-### `npm start`
+<img width="946" alt="HomePage" src="https://user-images.githubusercontent.com/89632449/202924525-e32a4dba-ef25-4db3-9b09-8d6e0b32f815.png">
+<img width="949" alt="SignUp" src="https://user-images.githubusercontent.com/89632449/202924536-57d840a2-fbf0-41a6-bf05-f692e4fd7590.png">
+<img width="936" alt="HomePage_SignedIn" src="https://user-images.githubusercontent.com/89632449/202924539-cd961193-4f0f-448d-ab4c-3fcb14ede6e5.png">
+<img width="955" alt="Cart" src="https://user-images.githubusercontent.com/89632449/202924957-86ab285e-6cc7-4639-a85d-4c2e4e84478a.png">
+<img width="944" alt="Checkout" src="https://user-images.githubusercontent.com/89632449/202924633-83680fdb-0d53-4283-b887-4a862fb80aca.png">
+<img width="943" alt="PurchaseHistory" src="https://user-images.githubusercontent.com/89632449/202924635-a565d204-d4d0-4a8c-aa00-103ec6e34553.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Tools Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Build with `React`, `Javascript`, `HTML`, `CSS`.
+- `FireBase` provides Realtime DataBase Support.
 
-### `npm test`
+## Contact 
+ <h3 align="center">
+  <code> Abhishek Goyal </code>
+</h3>
+  <p align="center"> 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <a href="https://github.com/abhishekg0907">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30" hspace="20">
+  </a>
 
-### `npm run build`
+  <a href="https://www.linkedin.com/in/abhishek-goyal-7b229120a/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" hspace="20">
+  </a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <a href="mailto:abhishekg0907@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"  width="30" height="30" hspace="20">
+  </a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</p>
