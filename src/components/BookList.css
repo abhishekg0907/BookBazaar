@@ -1,0 +1,81 @@
+.name {
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgb(54, 48, 48);
+  border-style: solid;
+  color: #d5bfad;
+  border-color: rgb(235, 111, 16);
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  margin: 5px 0;
+}
+.bookcover {
+  /* background-image: url("../../public/images/1.jpg"); */
+  height: 253px;
+  width: 192px;
+  background-repeat: no-repeat;
+  /* display: flex; */
+  justify-content: center;
+}
+.card {
+  margin: 10px;
+  background-color: #000000c1;
+  border: 2px solid #9a3506;
+  border-radius: 4px;
+  /* border-color:black; */
+  box-shadow: 10px 10px 4px rgba(11, 11, 11, 0.2);
+  padding: 0.3vw;
+  width: 193px;
+}
+.price {
+  border-width: 1px;
+  background-color: rgb(54, 48, 48);
+  border-style: dashed;
+  border-color: rgb(248, 120, 15);
+  color: #eed6c3;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+.add2cart {
+  border-radius: 4px;
+  margin-top: 5px;
+  background-color: black;
+  padding: 4px;
+  color: #eed6c3;
+  display: flex;
+  justify-content: center;
+}
+.face{
+  background-color: rgb(11, 28, 28);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10vh;
+  font-size: 50px;
+  padding: 20px 0;
+  color: rgb(230, 109, 22);
+  /* opacity: 0.3; */
+}
+.add2cart:hover {
+  cursor: pointer;
+  background-color: rgb(44, 43, 43);
+  /* color: black; */
+}
+.remove {
+  background-color: #ab3d0b;
+}
+.remove:hover {
+  background-color: #bb5526;
+}
+.bill {
+  background-color: rgb(54, 48, 48);
+  color: rgb(232, 220, 51);
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  display: flex;
+  float: bottom;
+}
